@@ -59,11 +59,11 @@ app = Client(":memory:", api_id, api_hash, bot_token=bot_token)
 ############## DEĞİŞKENLER ##############
 
 DATABASE_URL = "mongodb+srv://EdaletBalaev:Edalet2020@cluster0.fxrv624.mongodb.net/?retryWrites=true&w=majority"
-BOT_USERNAME = "GUNELTAG_BOT"
-LOG_CHANNEL = -1001815166089
+BOT_USERNAME = "TeleqrammusicBot"
+LOG_CHANNEL = -1001715780026
 GROUP_SUPPORT = "Edaletsup"
 GONDERME_TURU = False
-OWNER_ID = [5540993505]
+OWNER_ID = [5519651365]
 LANGAUGE = "AZ"
 
 
